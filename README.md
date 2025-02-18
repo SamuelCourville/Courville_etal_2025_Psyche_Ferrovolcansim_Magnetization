@@ -1,0 +1,1 @@
+The Jupyter notebooks contain the plotting and analysis code for scenarios 1 and 2 of Courville et al. (2025): Ferrovolcanic intrusions on asteroid (16) Psyche may be magnetized. The zip file contains the thermal model data.
